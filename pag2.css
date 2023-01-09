@@ -19,9 +19,13 @@ div.textarg{
 }
 img.imgarg{
     margin-top: -70px;
+    margin-left: 30px;
 }
 p.titarg{
     font-size: 100px;   
+}
+p.premind{
+    font-size: 70px;
 }
 p.titmba{
     font-size: 100px;
@@ -35,8 +39,14 @@ div.mbatext{
     width: 50%;
 }
 img.imgmba{
-    margin-top: -90px;
+    margin-top: 80px;
+    margin-bottom: 20px;
+    margin-left: 30px;
 }
 p.parmba{
     font-size: 20px;
+}
+img.imgenz{
+    margin-top: 80px;
+    margin-left: 30px;
 }
