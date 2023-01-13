@@ -7,25 +7,29 @@ a{
     font-size: 20px;
 }
 ul {
+    margin-top: 10%;
+    margin-bottom: 90px;
     list-style-type: none;
-    text-align: center
+    text-align: center;
+
   }
   
   li {
     background-color: #9c3e63;
     border: #D7C8B6 2px solid;
-    display: inline;
-    margin-right: 250px;
+    display: inline;    
+    padding: 20px;
+    margin-right: 10%;
   }
   
   a.bot{
     color: black;
-    padding: 20px;
+
 
     text-decoration: none;
   }
   
-  a:hover {
+  li:hover {
     background-color: white;
     color: #D7C8B6;
     padding: 20px;
